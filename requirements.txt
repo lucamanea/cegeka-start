@@ -1,0 +1,6 @@
+click~=8.1
+Flask~=2.3
+itsdangerous~=2.0
+Jinja2~=3.0
+MarkupSafe~=2.0
+Werkzeug~=2.3
